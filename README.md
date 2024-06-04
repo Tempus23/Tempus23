@@ -1,4 +1,4 @@
-## Hi there 👋
+Computer Science Student 👋
 
 <!--
 **Tempus23/Tempus23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
